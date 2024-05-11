@@ -283,7 +283,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ```
 ## Output:
-![Alt text](<Screenshot.png>)
+![image](https://github.com/VaishaliBalamurugan22008813/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119390134/589fe99f-2704-4f1f-ae5e-ab0cd568b582)
+
 
 
 ## Result :
